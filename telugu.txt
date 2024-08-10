@@ -1,0 +1,47 @@
+Collaborated with domain experts/ business stakeholders to develop machine learning, Deep Learning and AI (Generative-AI) models for various domine.
+Conducted in-depth EDA, data cleaning, and preprocessing to prepare data for analysis.
+Utilized Descriptive and Inferential Statistics for data interpretation.
+Leveraged manual EDA and automated tools like profile reports for a comprehensive data analysis.
+Identified and handled missing values and outliers using central tendency and IQR techniques.
+Generated individual and combined plots using matplotlib and seaborn for data visualization.
+Ensured data quality by addressing incorrect data formats, duplicates, and missing values.
+Implemented feature transformation techniques to address skewed features during data wrangling.
+Applied discretization techniques to group continuous values based on specific requirements.
+Utilized feature encoding methods for categorical variables.
+Implemented feature scaling to standardize high-magnitude values.
+Employed various feature selection techniques such as filter, wrapper, and embedded methods.
+Utilized Principal Component Analysis (PCA) for feature extraction and dimensionality reduction.
+Utilized Variance Inflation Factor (VIF) method to identify and address multicollinearity among independent features, enhancing model interpretability and performance.
+Spearheaded the development of a capstone project focused on regression modelling, employing various techniques including Linear Regression, Multi Linear Regression, Polynomial Regression, and Multinomial Regression to analyse and predict complex datasets.
+Implemented advanced regularization techniques such as Lasso (L1), Ridge (L2), and Elastic Net to mitigate overfitting, resulting in more robust and generalizable models.
+Utilized various comprehensive evaluation techniques to measure the accuracy and reliability of regression models, including Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R-squared (R2), and Adjusted R-squared (Adj-R2), to assess model performance and effectiveness.
+Implemented Logistic Regression, K-Nearest Neighbors (K-NN), Support Vector Machines (SVM), Decision Trees, and ensemble methods including Bagging (Random Forest), Boosting (AdaBoost, Gradient Boosting, XGBoost) to develop robust classification models.
+Conducted hyperparameter tuning for each model to optimize performance metrics such as accuracy, precision, recall, and F1-score.
+Addressed class imbalance using both undersampling (RandomUnderSampler) and oversampling (SMOTE) techniques to improve model reliability and reduce bias.
+Evaluated and compared various distance metrics (Euclidean, Manhattan, Minkowski) to identify the most suitable for the dataset and problem domain.
+Implemented pruning techniques including pre-pruning (early stopping criteria) and post-pruning (pruned decision trees) to enhance model generalization and performance.
+Applied comprehensive evaluation metrics including Accuracy, Precision, Recall, F1-score, Area Under the Curve (AUC), and Receiver Operating Characteristic (ROC) curve to assess and validate model performance.
+Applied K-Means clustering to segment customer data, resulting in improved targeted marketing strategies.
+Utilized Hierarchical clustering to group similar products based on sales patterns, optimizing inventory management.
+Implemented DBSCAN clustering to identify outliers in sensor data, leading to proactive maintenance strategies.
+Conducted thorough analysis using Euclidean, Manhattan, and Minkowski distances to measure similarity between data points.
+Leveraged WCSS (Within-Cluster Sum of Squares) and Elbow plot methods to determine the optimal number of clusters for various datasets.
+Applied Apriori algorithm to large-scale retail transaction data to identify frequent itemsets.
+Utilized Transaction Encoder to convert string categorical data into numerical categorical format suitable for association rule mining.
+Determined optimal support threshold values to filter out infrequent itemsets and focus on relevant patterns.
+Applied Association Rules algorithm to generate actionable insights by setting confidence metrics and support thresholds
+Experienced in designing and implementing recommendation systems to enhance user experience by leveraging Tf-Idf, Cosine Similarity, and Difflib techniques for improved efficiency and accuracy.
+ Led Time Series analysis projects, collaborating closely with clients to understand and fulfill specific prediction requirements.
+Conducted comprehensive analysis to discern trends, seasonality, cyclic patterns, and irregularities in Time Series data.
+Implemented statistical tests including Rolling Statistics and Augmented Dickey-Fuller Test to determine data stationarity.
+Utilized AutoCorrelation Function (ACF) and Partial AutoCorrelation Function (PACF) to ascertain optimal parameters (P and Q values) for Time Series models.
+Developed and validated forecasting models using ARIMA (AutoRegressive Integrated Moving Average) and SARIMA (Seasonal ARIMA) algorithms to deliver accurate predictions and insights
+Developed High-Level APIs: Created high-level APIs using TensorFlow and Keras, streamlining model development and integration processes.
+Implemented Model Training Enhancements: Utilized TensorBoard Callbacks, Early Stopping Callbacks, and Model Checkpoint Callbacks to optimize model training, monitor performance, and prevent overfitting.
+Worked on NLP (Natural Language Processing) project using NLTK library.
+Applied advanced text cleaning techniques including Tokenization, Punctuation removal, stopwords removal, stemming, and lemmatization to preprocess text data.
+Implemented count vectorization (Bag-of-Words) techniques to transform textual data into numerical format suitable for machine learning models.
+Developed and implemented Deep Learning algorithms, including Artificial Neural Networks (ANN), to address cross-sectional data challenges.
+Utilized Perceptron, Neural Network, and Deep Neural Network models to analyze and extract patterns from large datasets.
+Implemented different types of Activation functions such as ReLU, Softmax, and Sigmoid to enhance model performance and convergence.
+Applied optimization techniques like Gradient Descent to minimize loss functions and improve model training efficiency.
