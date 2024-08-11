@@ -10,3 +10,4 @@ wikipedia
 googlesearch-python
 faiss-cpu
 langchain-chroma
+streamlit
