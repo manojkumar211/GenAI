@@ -31,7 +31,7 @@ input_text=st.text_input("what question you have in mind")
 
 # Ollama LLama2 model
 
-llm=ollama(model="gemma:2b")
+llm=ollama(model="gemma2:2b")
 out_parser=StrOutputParser()
 chain=prompt | llm | out_parser
 
@@ -41,4 +41,3 @@ if input_text:
 if __name__=="__main__":
     import uvicorn
     uvicorn.run(host="0.0.0.0", port=8000)
-    
