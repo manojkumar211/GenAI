@@ -11,3 +11,4 @@ googlesearch-python
 faiss-cpu
 langchain-chroma
 streamlit
+langchain-groq
