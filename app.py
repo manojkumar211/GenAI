@@ -6,6 +6,7 @@ from langchain_community.llms import ollama
 import streamlit as st
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+import numpy as np
 
 load_dotenv()
 

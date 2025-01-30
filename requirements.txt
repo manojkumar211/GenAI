@@ -12,3 +12,4 @@ faiss-cpu
 langchain-chroma
 streamlit
 langchain-groq
+numpy
